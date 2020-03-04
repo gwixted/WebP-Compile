@@ -1,0 +1,16 @@
+{
+  "name": "wp-base",
+  "version": "1.0.1",
+  "description": "Basic site boilerplate using node and gulp",
+  "scripts": {
+    "watch": "gulp default"
+  },
+  "dependencies": {
+    "all": "0.0.0",
+    "gulp": "^3.9.1",
+    "gulp-ext-replace": "^0.3.0",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-plumber": "^1.1.0",
+    "imagemin-webp": "^5.1.0"
+  }
+}
